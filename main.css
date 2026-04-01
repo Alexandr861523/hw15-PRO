@@ -55,6 +55,7 @@ h1, h2 {
 }
 .todo-item--checked {
     text-decoration: line-through;
+    opacity: 0.6;
 }
 .todo-item__description {
     flex-grow: 1;
